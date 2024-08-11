@@ -1,0 +1,28 @@
+{
+  "name": "base64code-to-image",
+  "version": "1.0.0",
+  "description": "This package efficiently converts base64-encoded strings into image files enabling easy display of image within your application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalyanbikramadhikari/base64-to-image.git"
+  },
+  "keywords": [
+    "base64-to-image",
+    "base64code-to-image",
+    "base64 to image",
+    "convert base64 to image",
+    "base64",
+    "base64toimage",
+    "convertbase64toimageURL"
+  ],
+  "author": "Kalyanbikramadhikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalyanbikramadhikari/base64-to-image/issues"
+  },
+  "homepage": "https://github.com/Kalyanbikramadhikari/base64-to-image#readme"
+}
