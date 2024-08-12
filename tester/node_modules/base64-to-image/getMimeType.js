@@ -17,7 +17,7 @@ const getMimeType = (base64String) => {
     for (const [prefix, mimeType] of Object.entries(imageTypes)) {
         if (base64String.startsWith(prefix)) {
             return mimeType;
-        }git 
+        } 
     }
 
     // Default to JPEG if unknown
