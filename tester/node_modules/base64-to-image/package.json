@@ -1,6 +1,6 @@
 {
   "name": "base64code-to-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package efficiently converts base64-encoded strings into image files enabling easy display of image within your application",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "base64code-to-image",
     "base64 to image",
     "convert base64 to image",
+    "convert-base64-to-image",
     "base64",
     "base64toimage",
     "convertbase64toimageURL"
